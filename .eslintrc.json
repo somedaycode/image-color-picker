@@ -1,0 +1,12 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": [
+    "prettier",
+    "eslint:recommended",
+    "plugin:prettier/recommended",
+    "plugin:vue/essential",
+    "plugin:vue/vue3-recommended"
+  ]
+}
